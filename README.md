@@ -1,18 +1,33 @@
-## About me
+<h2>🌐</h2>
+<h2>🌐</h2>
+<h2>🌐</h2>
+<h2> Hi, I'm Ricardo!⌨️💻🖱️  <img src="https://c.tenor.com/0w2u_oxohEEAAAAM/popcat-pamp.gif" width="50"></h2>
+<p><em>I am currently studying and training to be a full stack developer at <a href="https://web.iesfernandoiii.es/">IES Fernando III</a> </em></p>
+
+<center>
+
+###   <img src="https://orig11.deviantart.net/dcab/f/2011/158/1/6/nyan_cat_by_valcreon-d3iapfh.gif" width="100" > About me...  
+
+</center> 
+  
+
 ```js
 const RicardoD4W = [
   {
-    Languages : ["JAVA","HTML","CSS","JS","PHP","MYSQL"]
+    Languages : [Java,JavaScript,HTML,CS,PHP,MYSQL]
   },
   {
-    SupportDesign : ["PS","PREMIER"]
+    SupportDesign : [Photoshop,Adobe-Premier]
   },
   {
-    Technologies : ["BOOSTRAP","NODE.JS","REACT","VUE.JS","ANGULAR.JS","JQUERY","NETLIFY"
-                    "GIT","GITHUB","DOCKER"]
+    Technologies : [
+                    Boostrap,React,
+                    "Node.js","Vue.js","Angular.js",
+                    JQUERY,NETLIFYGIT,GITHUB,DOCKER
+                    ]
   },
   {
-    OSandTerminals : ["LINUX","UBUNTU","KALI-LINUX","WINDOWS","BASH","ZSH"]
+    OSandTerminals : [Linux,Ubuntu,Kali-Linux,Windows,Bash,ZSH]
   },
   {
     Gmail : "ricardo.rodriguez@fernando3martos.com"
@@ -20,7 +35,10 @@ const RicardoD4W = [
 ]
 
 ```
-   <br/> <br/>
+
+
+
+   <br/> <br/><br/>
    
    
   
@@ -41,12 +59,13 @@ const RicardoD4W = [
 
 <!--START_SECTION:waka-->
 ```text 
-C++               █████████████████████████    ★★★★★
-C#                █████████████████████░░░░    ★★★★☆
-JAVA              █████████████░░░░░░░░░░░░    ★★★☆☆
-HTML5             █████████████░░░░░░░░░░░░    ★★★☆☆
-CSS3              █████████████░░░░░░░░░░░░    ★★★☆☆
-JavaScript        ██████░░░░░░░░░░░░░░░░░░░    ★★☆☆☆
+HTML                █████████████████████████    ★ ★ ★ ★ ★
+CSS                 █████████████████████░░░░    ★ ★ ★ ★
+JS                  █████████████████████░░░░    ★ ★ ★ ★ 
+JAVA                █████████████████████░░░░    ★ ★ ★ ★
+MYSQL               █████████████░░░░░░░░░░░░    ★ ★ ★ 
+C++                 █████████████░░░░░░░░░░░░    ★ ★ ★
+PHP                 ██████░░░░░░░░░░░░░░░░░░░    ★ ★
 ```
 <!--END_SECTION:waka-->
 
