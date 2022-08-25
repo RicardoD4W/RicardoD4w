@@ -3,12 +3,11 @@
 
 <br/>
 
-<center>
 
-### <img src="https://orig11.deviantart.net/dcab/f/2011/158/1/6/nyan_cat_by_valcreon-d3iapfh.gif" width="100" > About me...  
 
-</center> 
-  
+ ### <img aling='right' src="https://orig11.deviantart.net/dcab/f/2011/158/1/6/nyan_cat_by_valcreon-d3iapfh.gif" width="100" /> About me...  
+
+
 
 ```js
 const RicardoD4W = [
