@@ -1,7 +1,7 @@
 
-<h1 aling="center"> Hi, I'm Ricardo!⌨️💻🖱️  <img src="https://c.tenor.com/0w2u_oxohEEAAAAM/popcat-pamp.gif" width="50"></h1>
+<h1 aling="center"> Hi, I'm Ricardo!⌨️💻🖱️  <img src="https://c.tenor.com/0w2u_oxohEEAAAAM/popcat-pamp.gif" width="50"> </h1>
 
-<h4><em>I am currently studying and training to be a full stack developer at <a href="https://web.iesfernandoiii.es/">IES Fernando III</a> </em></h4>
+<h4> <em> I am currently studying and training to be a full stack developer at <a href="https://web.iesfernandoiii.es/">IES Fernando III </a> </em> </h4>
 
 <br>
 
