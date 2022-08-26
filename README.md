@@ -3,7 +3,7 @@
 
 <h4><em>I am currently studying and training to be a full stack developer at <a href="https://web.iesfernandoiii.es/">IES Fernando III</a> </em></h4>
 
-<br/>
+<br>
 
 
 <p  aling='center'>
@@ -28,7 +28,7 @@ const RicardoD4W = {
 
 
 
-   <br/> 
+   <br> 
    
    
   
@@ -43,7 +43,7 @@ const RicardoD4W = {
 
 
 
- <br/> 
+ <br> 
  
 ### DEVELOPING
 
