@@ -15,12 +15,13 @@
 
 ```js
 const RicardoD4W = {
-  
+
     Languages       : [Java, JavaScript, HTML, CSS, PHP, MYSQL],
     SupportDesign   : [Photoshop, Adobe-Premier],
     Technologies    : [Boostrap, React,"Node.js", "Vue.js", "Angular.js", JQUERY, NETLIFY, GIT, GITHUB, DOCKER],  
     OSandTerminals  : [Linux, Ubuntu, Kali-Linux, Windows, Bash, ZSH],
     Gmail           : "ricardo.rodriguez@fernando3martos.com"
+    
 }  
 
 
