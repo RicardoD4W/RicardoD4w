@@ -12,7 +12,7 @@
 ```js
 const RicardoD4W = [
   {
-    Languages : [Java,JavaScript,HTML,CS,PHP,MYSQL]
+    Languages : [Java,JavaScript,HTML,CSS,PHP,MYSQL]
   },
   {
     SupportDesign : [Photoshop,Adobe-Premier]
@@ -21,7 +21,7 @@ const RicardoD4W = [
     Technologies : [
                     Boostrap,React,
                     "Node.js","Vue.js","Angular.js",
-                    JQUERY,NETLIFYGIT,GITHUB,DOCKER
+                    JQUERY,NETLIFY,GIT,GITHUB,DOCKER
                     ]
   },
   {
