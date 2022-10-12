@@ -16,7 +16,7 @@
 ```js
 const RicardoD4W = {
 
-    Languages       : [Java, JavaScript, HTML, CSS, PHP, MYSQL],
+    Languages       : [Java, JavaScript, TypeScript, HTML, CSS, PHP, MYSQL],
     SupportDesign   : [Photoshop, Adobe-Premier],
     Technologies    : [Boostrap, React, Laravel, "Node.js", "Vue.js", "Angular", "AngularJS", SASS, GSAP, NETLIFY, GIT, GITHUB, DOCKER],  
     OSandTerminals  : [Linux, Ubuntu, Kali-Linux, Windows, Bash, ZSH],
