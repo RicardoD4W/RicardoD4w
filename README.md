@@ -5,10 +5,15 @@
 
 <br>
 
- <p  style="text-align:center">
 
- ### 👇 About me 👇 
+  <p  text-align= "center">
+ 
+ [<img width="auto" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png"/>](www.linkedin.com/in/ricardo-rodríguez-35b144253) ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <strong> 👇 About me 👇  </strong>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  [<img width="auto" height="50" src="https://cdn-icons-png.flaticon.com/512/2111/2111292.png"/>](www.linkedin.com/in/ricardo-rodríguez-35b144253)	
 
+
+ 
+
+ 
  </p>
 
 <div>
