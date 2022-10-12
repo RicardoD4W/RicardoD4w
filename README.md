@@ -1,5 +1,5 @@
 
-<h1 aling="center"> Hi, I'm Ricardo!⌨️💻🖱️  <img src="https://c.tenor.com/0w2u_oxohEEAAAAM/popcat-pamp.gif" width="50"> </h1>
+<h1 aling="center"> Hi, I'm Ricardo!⌨️💻🖱️ </h1>
 
 <p> <em> I am currently studying and training to be a full stack developer at <a href="https://web.iesfernandoiii.es/">IES Fernando III </a> </em> </p>
 
@@ -8,7 +8,7 @@
 
 <p  aling='center'>
 
- ### <img src="https://orig11.deviantart.net/dcab/f/2011/158/1/6/nyan_cat_by_valcreon-d3iapfh.gif" width="100" /> About me...  
+ ### 👇 About me 👇 
 
 </p>
 
