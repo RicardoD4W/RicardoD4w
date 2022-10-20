@@ -24,9 +24,9 @@
 <div>
  
 | WEB | <img width="50px" height="50px" src="/images/html5.png"/>|<img width="50px" height="50px" src="/images/css3.png"/> |<img width="50px" height="50px" src="/images/JS.png"/> |<img width="50px" height="50px" src="/images/TS.png"/> | SUPPORTS | <img width="50px" height="50px" src="/images/ps.png"/> |
-|:---:|---|---|---|---|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | BACK | <img width="50px" height="50px" src="/images/java.png"/> |<img width="50px" height="50px" src="/images/php.png"/>  |<img width="50px" height="50px" src="/images/mySQL.png"/>  | <img width="50px" height="50px"  src="/images/nodeJS.webp"/> | VIRTUALIZATION| <img width="50px" height="50px" src="/images/docker.png" /> |
-| FRAMEWORK |<img width="50px" height="50px" src="/images/react.png"/> |<img width="25px" height="25px" src="/images/boostrap.png"/> <img width="25px" height="25px" src ="/images/sass.png"/> |<img width="50px" height="50px" src="/images/laravel.svg"/> | <img width="50px" height="50px" src="/images/angular.svg"/>| VERSION CONTROL | <img width="50px" height="50px" src="/images/git.png"/> <img width="25px" height="25px" src="/images/github.png"/> |
+| FRAMEWORK |<img width="50px" height="50px" src="/images/react.png"/> |<img width="25px" height="25px" src="/images/boostrap.png"/> <img width="25px" height="25px" src ="/images/TW.png"/> |<img width="50px" height="50px" src="/images/laravel.svg"/> | <img width="50px" height="50px" src="/images/angular.svg"/>| VERSION CONTROL | <img width="50px" height="50px" src="/images/git.png"/> <img width="25px" height="25px" src="/images/github.png"/> |
 | OS | <img width="50px" height="50px" src="/images/windows.png"/> | <img width="50px" height="50px" src="/images/linux.png"/>|<img width="50px" height="50px" src="/images/ubuntu.png"/> | <img width="50px" height="50px" src="/images/debian.png"/> | BASH | <img width="50px" height="50px" src="/images/bash.png"/> |
  
 </div>
