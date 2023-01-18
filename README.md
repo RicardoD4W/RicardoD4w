@@ -1,3 +1,5 @@
+<div align="center">
+
 
 <h1 aling="center"> Hi, I'm Ricardo!⌨️💻🖱️ </h1>
 
@@ -31,7 +33,7 @@
  
 </div>
 
-
+</div>
 
    <br> 
    
