@@ -3,7 +3,7 @@
 
 <h1 aling="center"> Hi, I'm Ricardo!⌨️💻🖱️ </h1>
 
-<p> <em> I am currently studying and training to be a full stack developer at <a href="https://web.iesfernandoiii.es/">IES Fernando III </a> </em> </p>
+<p> <em> I am currently studying and training to be a Frontend developer at <a href="https://web.iesfernandoiii.es/">IES Fernando III </a> </em> </p>
 
 <br>
 
