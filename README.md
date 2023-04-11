@@ -1,12 +1,10 @@
 <div align="center">
 
-
 <h1 aling="center"> Hi, I'm Ricardo!⌨️💻🖱️ </h1>
 
 <p> <em> I am currently studying and training to be a Front end developer at <a href="https://web.iesfernandoiii.es/">IES Fernando III </a> </em> </p>
 
 <br>
-
 
   <p  text-align= "center">
   
@@ -16,11 +14,8 @@
   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <strong> 👇 About me 👇  </strong> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   
   <a href="mailto:ricardo.rodriguez@fernando3martos.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">    
-  </a> 
+  </a>
 
- 
-
- 
  </p>
 
 <div>
@@ -29,7 +24,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | BACK | <img width="50px" height="50px" src="/images/java.png"/> |<img width="50px" height="50px" src="/images/php.png"/>  |<img width="50px" height="50px" src="/images/mySQL.png"/> <img width="50px" height="50px" src="/images/mongo.png"/> | <img width="50px" height="50px"  src="/images/nodeJS.webp"/> | VIRTUALIZATION| <img width="50px" height="50px" src="/images/docker.png" /> |
 | FRAMEWORK |<img width="50px" height="50px" src="/images/react.png"/> <img width="50px" height="50px" src="/images/next.png"/>|<img width="25px" height="25px" src="/images/boostrap.png"/> <img width="25px" height="25px" src ="/images/TW.png"/> |<img width="50px" height="50px" src="/images/laravel.svg"/> | <img width="50px" height="50px" src="/images/angular.svg"/>| VERSION CONTROL | <img width="50px" height="50px" src="/images/git.png"/> <img width="25px" height="25px" src="/images/github.png"/> |
-| OTHERS | <img width="80px" height="50px" src="/images/zustad.png"/> | <img width="50px" height="50px" src="/images/reactquery.svg"/> | <img width="50px" height="50px" src="/images/prettier.png"/><img width="50px" height="50px" src="/images/ESLint.png"/> |<img width="50px" height="50px" src="/images/vite.jpeg"/> | BASH | <img width="50px" height="50px" src="/images/bash.png"/> |
+| OTHERS | <img width="80px" height="50px" src="/images/zustad.png"/>  <img width="80px" height="50px" src="/images/chakra-ui.png"/>| <img width="50px" height="50px" src="/images/reactquery.svg"/> | <img width="50px" height="50px" src="/images/prettier.png"/><img width="50px" height="50px" src="/images/ESLint.png"/> |<img width="50px" height="50px" src="/images/vite.jpeg"/> | BASH | <img width="50px" height="50px" src="/images/bash.png"/> |
  
 </div>
 
@@ -48,13 +43,4 @@
   </tr>
 </table>
 
-
-
- <br> 
-
-
-
-
-
-
-
+ <br>
