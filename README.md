@@ -60,8 +60,12 @@
 
 </div>
 
-| TESTING |<img width="50px" height="50px" src="/images/jest.png"/> <img width="50px" height="50px" src="/images/playwright.png"/>|<img width="25px" height="25px" src="/images/boostrap.png"/> <img width="25px" height="25px" src ="/images/TW.png"/> |<img width="50px" height="50px" src="/images/laravel.svg"/> | <img width="50px" height="50px" src="/images/angular.svg"/>
-| OTHERS | <img width="60px" height="50px" src="/images/zustad.png"/> <img width="50px" height="50px" src="/images/chakra-ui.png"/>| <img width="50px" height="50px" src="/images/reactquery.svg"/> | <img width="50px" height="50px" src="/images/prettier.png"/><img width="50px" height="50px" src="/images/ESLint.png"/> |<img width="50px" height="50px" src="/images/vite.jpeg"/> | BASH | <img width="50px" height="50px" src="/images/bash.png"/> |
+<div>
+
+| OTHERS | <img width="60px" height="50px" src="/images/zustad.png"/> <img width="50px" height="50px" src="/images/chakra-ui.png"/> | <img width="50px" height="50px" src="/images/reactquery.svg"/> | <img width="50px" height="50px" src="/images/prettier.png"/><img width="50px" height="50px" src="/images/ESLint.png"/> | <img width="50px" height="50px" src="/images/vite.jpeg"/> | BASH | <img width="50px" height="50px" src="/images/bash.png"/> |
+| :----: | :----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------- | ---- | -------------------------------------------------------- |
+
+</div>
 
 </div>
 
