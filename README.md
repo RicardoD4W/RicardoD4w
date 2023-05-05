@@ -27,6 +27,13 @@
 
 <div>
 
+| OTHERS | <img width="60px" height="50px" src="/images/zustad.png"/> <img width="50px" height="50px" src="/images/chakra-ui.png"/> | <img width="50px" height="50px" src="/images/reactquery.svg"/> | <img width="50px" height="50px" src="/images/prettier.png"/><img width="50px" height="50px" src="/images/ESLint.png"/> | <img width="50px" height="50px" src="/images/vite.jpeg"/> | BASH | <img width="50px" height="50px" src="/images/bash.png"/> |
+| :----: | :----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------- | ---- | -------------------------------------------------------- |
+
+</div>
+
+<div>
+
 | WEB | <img width="50px" height="50px" src="/images/html5.png"/> | <img width="50px" height="50px" src="/images/css3.png"/> | <img width="50px" height="50px" src="/images/JS.png"/> | <img width="50px" height="50px" src="/images/TS.png"/> | <img width="50px" height="50px" src="/images/webc.png"/> | OS  | <img width="50px" height="50px" src="/images/ubuntu.png"/> |
 | :-: | :-------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------------------: | --- | ---------------------------------------------------------- |
 
@@ -57,13 +64,6 @@
 
 | TESTING | <img width="50px" height="50px" src="/images/jest.jpeg"/> | <img width="50px" height="50px" src="/images/playwright.png"/> |
 | :-----: | :-------------------------------------------------------: | -------------------------------------------------------------- |
-
-</div>
-
-<div>
-
-| OTHERS | <img width="60px" height="50px" src="/images/zustad.png"/> <img width="50px" height="50px" src="/images/chakra-ui.png"/> | <img width="50px" height="50px" src="/images/reactquery.svg"/> | <img width="50px" height="50px" src="/images/prettier.png"/><img width="50px" height="50px" src="/images/ESLint.png"/> | <img width="50px" height="50px" src="/images/vite.jpeg"/> | BASH | <img width="50px" height="50px" src="/images/bash.png"/> |
-| :----: | :----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------- | ---- | -------------------------------------------------------- |
 
 </div>
 
