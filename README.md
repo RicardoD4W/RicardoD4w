@@ -33,8 +33,8 @@
 
 <div>
 
-| DATABASES | <img width="50px" height="50px" src="/images/mySQL.png"/> <img width="50px" height="50px" src="/images/mongo.png"/> | <img width="50px" height="50px" src="/images/oracle.png"/> | <img width="50px" height="50px" src="/images/postgre.png"/> |
-| :-------: | :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------: | :---------------------------------------------------------: |
+| DATABASES | <img width="50px" height="50px" src="/images/mySQL.png"/> | <img width="50px" height="50px" src="/images/mongo.png"/> | <img width="50px" height="50px" src="/images/oracle.png"/> | <img width="50px" height="50px" src="/images/postgre.png"/> |
+| :-------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: | ----------------------------------------------------------- |
 
 </div>
 
