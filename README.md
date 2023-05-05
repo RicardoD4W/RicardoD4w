@@ -26,8 +26,16 @@
 
 <div>
 
-| BACK | <img width="50px" height="50px" src="/images/java.png"/> |<img width="50px" height="50px" src="/images/php.png"/>  |<img width="50px" height="50px" src="/images/mySQL.png"/> <img width="50px" height="50px" src="/images/mongo.png"/> | <img width="50px" height="50px"  src="/images/nodeJS.webp"/> | VIRTUALIZATION| <img width="50px" height="50px" src="/images/docker.png" /> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| BACK | <img width="50px" height="50px" src="/images/java.png"/> | <img width="50px" height="50px" src="/images/php.png"/> | <img width="50px" height="50px"  src="/images/nodeJS.webp"/> | VIRTUALIZATION | <img width="50px" height="50px" src="/images/docker.png" /> |
+| :--: | :------------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :------------: | :---------------------------------------------------------: |
+
+</div>
+
+<div>
+
+| DATABASES | <img width="50px" height="50px" src="/images/mySQL.png"/> <img width="50px" height="50px" src="/images/mongo.png"/> | <img width="50px" height="50px" src="/images/oracle.png"/> | <img width="50px" height="50px" src="/images/postgre.png"/> |
+| :-------: | :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------: | :---------------------------------------------------------: |
+
 </div>
 
 | FRAMEWORK |<img width="50px" height="50px" src="/images/react.png"/> <img width="50px" height="50px" src="/images/next.png"/>|<img width="25px" height="25px" src="/images/boostrap.png"/> <img width="25px" height="25px" src ="/images/TW.png"/> |<img width="50px" height="50px" src="/images/laravel.svg"/> | <img width="50px" height="50px" src="/images/angular.svg"/>| VERSION CONTROL | <img width="50px" height="50px" src="/images/git.png"/> <img width="25px" height="25px" src="/images/github.png"/> |
