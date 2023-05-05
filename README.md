@@ -28,17 +28,20 @@
 
 | BACK | <img width="50px" height="50px" src="/images/java.png"/> | <img width="50px" height="50px" src="/images/php.png"/> | <img width="50px" height="50px"  src="/images/nodeJS.webp"/> | VIRTUALIZATION | <img width="50px" height="50px" src="/images/docker.png" /> |
 | :--: | :------------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :------------: | :---------------------------------------------------------: |
+
 </div>
 
 <div>
 
-| DATABASES | <img width="50px" height="50px" src="/images/mySQL.png"/> | <img width="50px" height="50px" src="/images/mongo.png"/> | <img width="50px" height="50px" src="/images/oracle.png"/> | <img width="50px" height="50px" src="/images/postgre.png"/> |
-| :-------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: | ----------------------------------------------------------- |
+| DATABASES | <img width="50px" height="50px" src="/images/mySQL.png"/> | <img width="50px" height="50px" src="/images/mongo.png"/> | <img width="50px" height="50px" src="/images/oracle.png"/> | <img width="50px" height="50px" src="/images/postgr.png"/> |
+| :-------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: | ---------------------------------------------------------- |
+
 </div>
 
 <div>
 
 | FRAMEWORK |<img width="50px" height="50px" src="/images/react.png"/> <img width="50px" height="50px" src="/images/next.png"/>|<img width="25px" height="25px" src="/images/boostrap.png"/> <img width="25px" height="25px" src ="/images/TW.png"/> |<img width="50px" height="50px" src="/images/laravel.svg"/> | <img width="50px" height="50px" src="/images/angular.svg"/>| VERSION CONTROL | <img width="50px" height="50px" src="/images/git.png"/> <img width="25px" height="25px" src="/images/github.png"/> |
+
 </div>
 | TESTING |<img width="50px" height="50px" src="/images/jest.png"/> <img width="50px" height="50px" src="/images/playwright.png"/>|<img width="25px" height="25px" src="/images/boostrap.png"/> <img width="25px" height="25px" src ="/images/TW.png"/> |<img width="50px" height="50px" src="/images/laravel.svg"/> | <img width="50px" height="50px" src="/images/angular.svg"/>| VERSION CONTROL | <img width="50px" height="50px" src="/images/git.png"/> <img width="25px" height="25px" src="/images/github.png"/> |
 | OTHERS | <img width="60px" height="50px" src="/images/zustad.png"/> <img width="50px" height="50px" src="/images/chakra-ui.png"/>| <img width="50px" height="50px" src="/images/reactquery.svg"/> | <img width="50px" height="50px" src="/images/prettier.png"/><img width="50px" height="50px" src="/images/ESLint.png"/> |<img width="50px" height="50px" src="/images/vite.jpeg"/> | BASH | <img width="50px" height="50px" src="/images/bash.png"/> |
