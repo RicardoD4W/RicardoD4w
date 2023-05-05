@@ -18,6 +18,13 @@
 
  </p>
 
+ <div>
+
+| TECHNOLOGIES | <img width="50px" height="50px" src="/images/react.png"/> | <img width="50px" height="50px" src="/images/next.png"/> | <img width="50px" height="50px" src="/images/boostrap.png"/> | <img width="50px" height="50px" src ="/images/TW.png"/> | <img width="50px" height="50px" src="/images/laravel.svg"/> | <img width="50px" height="50px" src="/images/angular.svg"/> | <img width="50px" height="50px" src="/images/lit.png"/> |
+| :----------: | :-------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------- |
+
+</div>
+
 <div>
 
 | WEB | <img width="50px" height="50px" src="/images/html5.png"/> | <img width="50px" height="50px" src="/images/css3.png"/> | <img width="50px" height="50px" src="/images/JS.png"/> | <img width="50px" height="50px" src="/images/TS.png"/> | <img width="50px" height="50px" src="/images/webc.png"/> | OS  | <img width="50px" height="50px" src="/images/ubuntu.png"/> |
@@ -36,13 +43,6 @@
 
 | DATABASES | <img width="50px" height="50px" src="/images/mySQL.png"/> | <img width="50px" height="50px" src="/images/mongo.png"/> | <img width="50px" height="50px" src="/images/oracle.png"/> | <img width="50px" height="50px" src="/images/postgresql.png"/> |
 | :-------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: | -------------------------------------------------------------- |
-
-</div>
-
-<div>
-
-| TECHNOLOGIES | <img width="50px" height="50px" src="/images/react.png"/> | <img width="50px" height="50px" src="/images/next.png"/> | <img width="50px" height="50px" src="/images/boostrap.png"/> | <img width="50px" height="50px" src ="/images/TW.png"/> | <img width="50px" height="50px" src="/images/laravel.svg"/> | <img width="50px" height="50px" src="/images/angular.svg"/> | <img width="50px" height="50px" src="/images/lit.png"/> |
-| :----------: | :-------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------- |
 
 </div>
 
