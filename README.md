@@ -19,9 +19,9 @@
  </p>
 
 <div>
- 
-| WEB | <img width="50px" height="50px" src="/images/html5.png"/>|<img width="50px" height="50px" src="/images/css3.png"/> |<img width="50px" height="50px" src="/images/JS.png"/> |<img width="50px" height="50px" src="/images/TS.png"/> | <img width="50px" height="50px" src="/images/webc.png"/> | OS | <img width="50px" height="50px" src="/images/ubuntu.png"/> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+| WEB | <img width="50px" height="50px" src="/images/html5.png"/> | <img width="50px" height="50px" src="/images/css3.png"/> | <img width="50px" height="50px" src="/images/JS.png"/> | <img width="50px" height="50px" src="/images/TS.png"/> | <img width="50px" height="50px" src="/images/webc.png"/> | OS  | <img width="50px" height="50px" src="/images/ubuntu.png"/> |
+| :-: | :-------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------------------: | --- | ---------------------------------------------------------- |
 
 </div>
 
