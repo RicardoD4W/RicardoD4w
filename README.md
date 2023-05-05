@@ -55,8 +55,8 @@
 
 <div>
 
-| TESTING | <img width="50px" height="50px" src="/images/jest.jpeg"/> <img width="50px" height="50px" src="/images/playwright.png"/> |
-| :-----: | :----------------------------------------------------------------------------------------------------------------------: |
+| TESTING | <img width="50px" height="50px" src="/images/jest.jpeg"/> | <img width="50px" height="50px" src="/images/playwright.png"/> |
+| :-----: | :-------------------------------------------------------: | -------------------------------------------------------------- |
 
 </div>
 
