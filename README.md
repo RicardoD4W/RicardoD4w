@@ -6,7 +6,7 @@
 
 <br>
 
-  <p  text-align= "center" style="display:flex">
+  <p  text-align= "center" display="flex">
   
   <a href="https://www.linkedin.com/in/ricardo-rodríguez/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">    
