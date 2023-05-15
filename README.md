@@ -18,17 +18,17 @@
 
  </p>
 
+ <div>
+
+| TECHNOLOGIES | <img width="50px" height="50px" src="/images/react.png"/> | <img width="50px" height="50px" src="/images/next.png"/> | <img width="50px" height="50px" src="/images/boostrap.png"/> | <img width="50px" height="50px" src ="/images/TW.png"/> | <img width="50px" height="50px" src="/images/laravel.svg"/> | <img width="50px" height="50px" src="/images/angular.svg"/> | <img width="50px" height="50px" src="/images/lit.png"/> | <img width="50px" height="50px" src="/images/qwik.png"/> |
+| :----------: | :-------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
+
+</div>
+
 <div>
 
 | OTHERS | <img width="60px" height="50px" src="/images/zustad.png"/> | <img width="50px" height="50px" src="/images/chakra-ui.png"/> | <img width="50px" height="50px" src="/images/reactquery.svg"/> | <img width="50px" height="50px" src="/images/prettier.png"/> | <img width="50px" height="50px" src="/images/ESLint.png"/> | <img width="50px" height="50px" src="/images/vite.jpeg"/> | BASH | <img width="50px" height="50px" src="/images/bash.png"/> |
 | :----: | :--------------------------------------------------------: | :-----------------------------------------------------------: | :------------------------------------------------------------: | ------------------------------------------------------------ | ---------------------------------------------------------- | --------------------------------------------------------- | ---- | -------------------------------------------------------- |
-
-</div>
-
- <div>
-
-| TECHNOLOGIES | <img width="50px" height="50px" src="/images/react.png"/> | <img width="50px" height="50px" src="/images/next.png"/> | <img width="50px" height="50px" src="/images/boostrap.png"/> | <img width="50px" height="50px" src ="/images/TW.png"/> | <img width="50px" height="50px" src="/images/laravel.svg"/> | <img width="50px" height="50px" src="/images/angular.svg"/> | <img width="50px" height="50px" src="/images/lit.png"/> |
-| :----------: | :-------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------- |
 
 </div>
 
