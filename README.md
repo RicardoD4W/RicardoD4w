@@ -2,7 +2,11 @@
 
 <h1 aling="center"> Hi, I'm Ricardo!⌨️💻🖱️ </h1>
 
-<p> <em> I am currently studying and training to be a Front end developer at <a href="https://web.iesfernandoiii.es/">IES Fernando III </a> </em> </p>
+<p> <em> Hi, I'm Ricardo, a senior technician in web application development, I'm an enthusiast and passionate about programming, especially fronted technologies.
+
+Although it is true that I have also used backend technologies as well as SQL and NoSQL databases. I like to do a sustainable development in the future where it is easy to debug and extend its functionalities
+
+Innovation and renewal are part of my day to day. I am interested in current technological issues as well as advances in development and new Frameworks that come to the market </em> </p>
 
 <br>
 
