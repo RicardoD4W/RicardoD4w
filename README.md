@@ -2,9 +2,10 @@
 
 <h1 aling="center"> Hi, I'm Ricardo!⌨️💻🖱️ </h1>
 
-<p aling="left"> <em> Hi, I'm Ricardo, a senior technician in web application development, I'm an enthusiast and passionate about programming, especially fronted technologies.
-Although it is true that I have also used backend technologies as well as SQL and NoSQL databases. I like to do a sustainable development in the future where it is easy to debug and extend its functionalities
-Innovation and renewal are part of my day to day. I am interested in current technological issues as well as advances in development and new Frameworks that come to the market </em> </p>
+<p aling="left"> <em>Hi, I'm Ricardo, senior technician in web application development. In my higher studies I graduated with an award for excellence and the best academic record.
+I am an enthusiast and passionate about programming, especially frontend technologies.
+Although it is true that I also handle backend technologies and databases (SQL and NoSQL). I like to make scalable developments using methodologies, architectures and where the development is sustainable in the future allowing it to be easy to debug and understand by the rest of the team.
+Innovation and renovation are part of my daily life. I am very interested in current technological issues as well as advances in development and new Frameworks and libraries that come to market. </em> </p>
 
 <br>
 
