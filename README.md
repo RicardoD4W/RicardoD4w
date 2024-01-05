@@ -1,88 +1,38 @@
-<div align="center">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ricardo
+===============================================================================================================================
 
-<h1 aling="center"> Hi, I'm Ricardo!⌨️💻🖱️ </h1>
+Senior Technician In Web Application Development
+------------------------------------------------
 
-<p aling="left"> <em>Hi, I'm Ricardo, senior technician in web application development. In my higher studies I graduated with an award for excellence and the best academic record.
-I am an enthusiast and passionate about programming, especially frontend technologies.
-Although it is true that I also handle backend technologies and databases (SQL and NoSQL). I like to make scalable developments using methodologies, architectures and where the development is sustainable in the future allowing it to be easy to debug and understand by the rest of the team.
-Innovation and renovation are part of my daily life. I am very interested in current technological issues as well as advances in development and new Frameworks and libraries that come to market. </em> </p>
+In my higher studies I graduated with an award for excellence and the best academic record. I am an enthusiast and passionate about programming, especially frontend technologies. Although it is true that I also handle backend technologies and databases (SQL and NoSQL). I like to make scalable developments using methodologies, architectures and where the development is sustainable in the future allowing it to be easy to debug and understand by the rest of the team. Innovation and renovation are part of my daily life. I am very interested in current technological issues as well as advances in development and new Frameworks and libraries that come to market.
 
-<br>
-
-  <p  text-align= "center">
-  
-  <a href="https://www.linkedin.com/in/ricardo-rodríguez/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">    
-  </a> 
-  ‎  ‎  ‎  ‎  ‎ ‎  ‎  ‎ ‎  ‎  ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <strong> 👇 About me 👇  </strong> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   
-  <a href="mailto:ricardo.rodriguez@fernando3martos.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">    
-  </a>
-
- </p>
-
- <div>
-
-| TECHNOLOGIES | <img width="50px" height="50px" src="/images/react.png"/> | <img width="50px" height="50px" src="/images/next.png"/> | <img width="50px" height="50px" src="/images/boostrap.png"/> | <img width="50px" height="50px" src ="/images/TW.png"/> | <img width="50px" height="50px" src="/images/laravel.svg"/> | <img width="50px" height="50px" src="/images/angular.svg"/> | <img width="50px" height="50px" src="/images/lit.png"/> | <img width="50px" height="50px" src="/images/qwik.png"/> |
-| :----------: | :-------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
-
-</div>
-
-<div>
-
-| OTHERS | <img width="60px" height="50px" src="/images/zustad.png"/> | <img width="50px" height="50px" src="/images/chakra-ui.png"/> | <img width="50px" height="50px" src="/images/reactquery.svg"/> | <img width="50px" height="50px" src="/images/prettier.png"/> | <img width="50px" height="50px" src="/images/ESLint.png"/> | <img width="50px" height="50px" src="/images/vite.jpeg"/> | BASH | <img width="50px" height="50px" src="/images/bash.png"/> |
-| :----: | :--------------------------------------------------------: | :-----------------------------------------------------------: | :------------------------------------------------------------: | ------------------------------------------------------------ | ---------------------------------------------------------- | --------------------------------------------------------- | ---- | -------------------------------------------------------- |
-
-</div>
-
-<div>
-
-| WEB | <img width="50px" height="50px" src="/images/html5.png"/> | <img width="50px" height="50px" src="/images/css3.png"/> | <img width="50px" height="50px" src="/images/JS.png"/> | <img width="50px" height="50px" src="/images/TS.png"/> | <img width="50px" height="50px" src="/images/webc.png"/> | OS  | <img width="50px" height="50px" src="/images/ubuntu.png"/> |
-| :-: | :-------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------------------: | --- | ---------------------------------------------------------- |
-
-</div>
-
-<div>
-
-| BACK | <img width="50px" height="50px" src="/images/java.png"/> | <img width="50px" height="50px" src="/images/php.png"/> | <img width="50px" height="50px"  src="/images/nodeJS.webp"/> | VIRTUALIZATION | <img width="50px" height="50px" src="/images/docker.png" /> |
-| :--: | :------------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :------------: | :---------------------------------------------------------: |
-
-</div>
-
-<div>
-
-| DATABASES | <img width="50px" height="50px" src="/images/mongo.png"/> | <img width="50px" height="50px" src="/images/mySQL.png"/> | <img width="50px" height="50px" src="/images/oracle.png"/> | <img width="50px" height="50px" src="/images/postgresql.png"/> |
-| :-------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: | -------------------------------------------------------------- |
-
-</div>
-
-<div>
-
-| VERSION CONTROL | <img width="50px" height="50px" src="/images/git.png"/> | <img width="50px" height="50px" src="/images/github.png"/> | <img width="50px" height="50px" src="/images/gitlab.png"/> |
-| :-------------: | :-----------------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------------------: |
-
-</div>
-
-<div>
-
-| TESTING | <img width="50px" height="50px" src="/images/jest.jpeg"/> | <img width="50px" height="50px" src="/images/playwright.png"/> |
-| :-----: | :-------------------------------------------------------: | -------------------------------------------------------------- |
-
-</div>
-
-</div>
-
-   <br> 
-   
-   
-  
-### Github Stats
-
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoD4W&theme=radical&card_width=450em)](https://github.com/RicardoD4W/RicardoD4W/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=RicardoD4W&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
-  </tr>
-</table>
-
- <br>
+*   🌍  I'm based in Spain
+*   🖥️  See my portfolio at [Still working](http://google.es)
+*   ✉️  You can contact me at [ricardodeveloper03work@gmail.com](mailto:ricardodeveloper03work@gmail.com)
+*   🤝  I'm open to collaborating on All kinds of projects### Skills 
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.github.com/RicardoD4w" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.linkedin.com/in/ricardo-rodríguez" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/RicardoD4w"><img src="https://github-readme-stats.vercel.app/api?username=RicardoD4w&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RicardoD4w's GitHub stats" /></a><a
+                      href="http://www.github.com/RicardoD4w"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoD4w&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/RicardoD4w"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=RicardoD4w&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/RicardoD4w" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoD4w&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/RicardoD4w/Playwright" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoD4w&repo=Playwright&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoD4w/Buenas-Practicas-Clean-Code-Version" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoD4w&repo=Buenas-Practicas-Clean-Code-Version&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
