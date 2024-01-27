@@ -5,7 +5,7 @@
 In my higher studies I graduated with an award for excellence and the best academic record. I am an enthusiast and passionate about programming, especially frontend technologies. Although it is true that I also handle backend technologies and databases (SQL and NoSQL). I like to make scalable developments using methodologies, architectures and where the development is sustainable in the future allowing it to be easy to debug and understand by the rest of the team. Innovation and renovation are part of my daily life. I am very interested in current technological issues as well as advances in development and new Frameworks and libraries that come to market.
 
 - 🌍  I'm based in Spain
-- 🖥️  See my portfolio [here]([http://google.es](https://mnf.red/0c10d54d-6d87-467f-8749-604570f437da/timeline))
+- 🖥️  See my portfolio [here](https://mnf.red/0c10d54d-6d87-467f-8749-604570f437da/timeline)
 - ✉️  You can contact me at [ricardodeveloper03work@gmail.com](mailto:ricardodeveloper03work@gmail.com)
 - 🤝  I'm open to collaborating on All kinds of projects
 
