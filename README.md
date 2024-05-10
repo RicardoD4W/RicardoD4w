@@ -77,3 +77,9 @@ In my higher studies I graduated with an award for excellence and the best acade
   
   
   </div><br /><br /><br /><br /><br /><br /><br />
+
+
+
+### Quotes
+
+  > There are only two hard things in Computer Science: cache invalidation and naming things. — Phil Karlton
