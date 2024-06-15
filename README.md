@@ -68,7 +68,9 @@ In my higher studies I graduated with an award for excellence and the best acade
 
 <div width="100%" align="center">
 
-  <a href="https://github.com/RicardoD4W/Design-patterns" align="center"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoD4w&repo=Design-patterns&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/RicardoD4W/Design-patterns" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoD4w&repo=Design-patterns&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+
+   <a href="https://github.com/RicardoD4W/ricky-cli" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoD4w&repo=ricky-cli&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   
   <a href="https://github.com/RicardoD4w/Playwright" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoD4w&repo=Playwright&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
@@ -76,7 +78,11 @@ In my higher studies I graduated with an award for excellence and the best acade
   <a href="https://github.com/RicardoD4w/Buenas-Practicas-Clean-Code-Version" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoD4w&repo=Buenas-Practicas-Clean-Code-Version&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   
   
-  </div><br /><br /><br /><br /><br /><br /><br />
+  </div>
+  
+  <br /><br /><br /><br /><br /><br /><br />
+
+   <br /><br /><br /><br /><br /><br /><br />
 
 
 
