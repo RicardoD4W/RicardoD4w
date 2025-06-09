@@ -1,8 +1,8 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ricardo
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi My name is Ricardo
 
-## Senior Technician In Web Application Development
+## Frontend Developer
 
-In my higher studies I graduated with an award for excellence and the best academic record. I am an enthusiast and passionate about programming, especially frontend technologies. Although it is true that I also handle backend technologies and databases (SQL and NoSQL). I like to make scalable developments using methodologies, architectures and where the development is sustainable in the future allowing it to be easy to debug and understand by the rest of the team. Innovation and renovation are part of my daily life. I am very interested in current technological issues as well as advances in development and new Frameworks and libraries that come to market.
+I specialize in the front-end. My passion for creating intuitive and efficient interfaces is reflected in every project I work on. I have a solid command of modern technologies such as React and Lit and extensive knowledge of JavaScript. Although my strength is front-end development, I also have knowledge of back-end and databases, which gives me a comprehensive view of software development. I'm motivated by staying up-to-date with technological trends, and I'm always looking to implement new tools that improve the user experience and optimize development processes. I'm always focused on improving my technical skills and exploring new technologies that add value to each project, seeking practical and efficient solutions.
 
 - 🌍  I'm based in Spain
 - 🖥️  See my portfolio [here](https://mnf.red/0c10d54d-6d87-467f-8749-604570f437da/timeline)
