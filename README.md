@@ -88,9 +88,17 @@ I specialize in the front-end. My passion for creating intuitive and efficient i
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/RicardoD4w"><img src="https://github-readme-stats.vercel.app/api?username=RicardoD4w&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RicardoD4w's GitHub stats" /></a>
-
-<a href="https://github.com/RicardoD4w" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoD4w&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div>
+  
+  <a href="https://github.com/RicardoD4w">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoD4w&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
+  
+  <a href="http://www.github.com/RicardoD4w">
+    <img src="https://github-readme-stats.vercel.app/api?username=RicardoD4w&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RicardoD4w's GitHub stats" />
+  </a>
+  
+</div>
 
 <b>Top Repositories</b>
 
