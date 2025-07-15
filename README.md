@@ -7,7 +7,7 @@ I specialize in the front-end. My passion for creating intuitive and efficient i
 - 🌍  I'm based in Spain
 - 🖥️  See my portfolio [here](https://mnf.red/0c10d54d-6d87-467f-8749-604570f437da/timeline)
 - ✉️  You can contact me at [ricardodeveloper03work@gmail.com](mailto:ricardodeveloper03work@gmail.com)
-- 🤝  I'm open to collaborating on All kinds of projects
+- 🤝  I'm open to collaborating on all kinds of projects
 
 ### Skills
 
@@ -77,7 +77,7 @@ I specialize in the front-end. My passion for creating intuitive and efficient i
 
 <div align="left">
     <a href="https://www.github.com/RicardoD4w" target="_blank" rel="noreferrer"> 
-      <img src="https://skillicons.dev/icons?i=github" height="40" alt="GihHub" />
+      <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
     </a> 
     <a href="https://www.linkedin.com/in/ricardo-rodríguez" target="_blank" rel="noreferrer"> 
       <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="Linkedin" />
